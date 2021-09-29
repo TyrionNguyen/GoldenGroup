@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GOLDEN GROUP BĐS Ven Đà Lạt Bảo Lộc",
-    "currentPage": "index.html",
+    "currentPage": "Maison.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,8 +49,8 @@
     "versionPublish": "5.4.1",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logofooter-3115-128x92_1.png",
-    "mbrsiteDomain": "xgxegdbaoo",
+    "favicon": "@PROJECT_PATH@/assets/images/logofooter-3115-128x92_2.png",
+    "mbrsiteDomain": "6nsoar2slv",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -825,7 +825,7 @@
     "Maison.html": {
       "settings": {
         "title": "Maison De L'Amour | Đất Nền Nghỉ Dưỡng | Phúc Dallas Golden Group",
-        "meta_descr": "",
+        "meta_descr": "Chuyên cung cấp các sản phẩm đất nền nghỉ dưỡng view đẹp, giá đầu tư ven Đà Lạt & Bảo Lộc. Khí hậu quanh năm mát mẻ và là tầm nhìn tương lai cho những ai muốn đầu tư đất nền, bất động sản tại khu vực Lâm Đồng. Với Lâm Hà là một trong 5 địa phận có quy hoạch sát nhập vào Đà Lạt.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1742,7 +1742,8 @@
     "GoldenView.html": {
       "settings": {
         "title": "Golden View | Đất Nền Nghỉ Dưỡng | Phúc Dallas Golden Group",
-        "order": 3
+        "order": 3,
+        "meta_descr": "Chuyên cung cấp các sản phẩm đất nền nghỉ dưỡng view đẹp, giá đầu tư ven Đà Lạt & Bảo Lộc. Khí hậu quanh năm mát mẻ và là tầm nhìn tương lai cho những ai muốn đầu tư đất nền, bất động sản tại khu vực Lâm Đồng. Với Lâm Hà là một trong 5 địa phận có quy hoạch sát nhập vào Đà Lạt."
       },
       "components": [
         {

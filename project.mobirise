@@ -69,7 +69,8 @@
         "meta_descr": "Chuyên cung cấp các sản phẩm đất nền nghỉ dưỡng view đẹp, giá đầu tư ven Đà Lạt & Bảo Lộc. Khí hậu quanh năm mát mẻ và là tầm nhìn tương lai cho những ai muốn đầu tư đất nền, bất động sản tại khu vực Lâm Đồng. Với Lâm Hà là một trong 5 địa phận có quy hoạch sát nhập vào Đà Lạt.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/black%20friday%20clothing%20sale%20instagram%20post-1080x1080.png"
       },
       "components": [
         {

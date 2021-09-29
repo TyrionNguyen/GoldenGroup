@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GOLDEN GROUP BĐS Ven Đà Lạt Bảo Lộc",
-    "currentPage": "Maison.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -50,14 +50,15 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logofooter-3115-128x92_2.png",
-    "mbrsiteDomain": "6nsoar2slv",
+    "mbrsiteDomain": "3v2fs346ii",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "288126088"
   },
   "pages": {
     "index.html": {

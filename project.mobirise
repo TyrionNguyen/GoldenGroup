@@ -50,16 +50,16 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logofooter-3115-128x92_2.png",
-    "mbrsiteDomain": "mbg25lb6ar",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "mbrsiteDomain": "mw7nhj2rgr",
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "https://bdsdatnendalat.com/",
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": true,
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-K8FCM6J3MN\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-K8FCM6J3MN');\n</script>",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nSitemap: http://www.bdsdatnendalat.com/sitemap.xml\n"
   },
   "pages": {
     "index.html": {
